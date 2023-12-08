@@ -1,0 +1,15 @@
+{
+  "name": "hex96",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "`hex96` is a simple JavaScript library for file encryption and decryption using AES-256-CBC encryption with a 96-nibble hexadecimal key. It provides easy-to-use functions for securing your files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
